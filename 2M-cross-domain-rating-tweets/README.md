@@ -1,7 +1,7 @@
 2 Million Cross-Domain Rating Tweets
 ===============
 
-Using the scripts from the [Twitter-ratings Github project](https://github.com/sidooms/Twitter-ratings) I collected 2 million tweets containing preference data (ratings or implicit feedback) originating from 5 different online services: Amazon, LastFM, MyJam, Pandora and Spotify. All tweets are posted between 30/01/2014 and 28/11/2014. As [previous experiments](http://www.slideshare.net/simondooms/static-mining-cross-domain-rating-datasets-from-structured-data-on-twitter) indicated, users may have tweeted across multiple services which makes this an potentially interesting dataset for e.g., cross-domain  recommender systems research.
+Using the scripts from the [Twitter-ratings Github project](https://github.com/sidooms/Twitter-ratings) I collected 2 million tweets containing preference data (ratings or implicit feedback) originating from 5 different online services: Amazon, LastFM, MyJam, Pandora and Spotify. All tweets are posted between 30/01/2014 and 28/11/2014 (10 months period). As [previous experiments](http://www.slideshare.net/simondooms/static-mining-cross-domain-rating-datasets-from-structured-data-on-twitter) indicated, users may have tweeted across multiple services which makes this an potentially interesting dataset for e.g., cross-domain  recommender systems research.
 
 The total number of collected tweets is nearly 2 million (1,992,756 to be exact). The number of tweets collected per online service is:
 
