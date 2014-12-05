@@ -13,7 +13,7 @@ The total number of collected tweets is nearly 2 million (1,992,756 to be exact)
 
 The corresponding files contain one tweet per line with the following structure.
 
-*Time of collection*,*Tweet metadata* 
+**Time of collection**,**Tweet metadata (JSON formatted)** 
 
 Here's an example of what a single line in the Amazon dataset may look like:
 
