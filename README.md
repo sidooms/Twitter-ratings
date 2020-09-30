@@ -1,7 +1,7 @@
 Twitter-ratings
 ===============
 
-A collection of Python scripts to download and extract rating datasets from Twitter as described in an article accepted for publication in the [MSM 2014 workshop](http://www.kde.cs.uni-kassel.de/ws/msm2014/) co-located with the [WWW 2014 conference](http://www2014.kr). Please cite the corresponding paper if you make use of this work. The presented slides can be found on [slideshare](http://www.slideshare.net/simondooms/static-mining-cross-domain-rating-datasets-from-structured-data-on-twitter).
+A collection of Python scripts to download and extract the rating datasets from Twitter as described in an article accepted for publication in the [MSM 2014 workshop](http://www.kde.cs.uni-kassel.de/ws/msm2014/) co-located with the [WWW 2014 conference](http://www2014.kr). Please cite the corresponding paper if you make use of this work. The presented slides can be found on [slideshare](http://www.slideshare.net/simondooms/static-mining-cross-domain-rating-datasets-from-structured-data-on-twitter).
 
     @conference{Dooms14msm,
     author = {Dooms, Simon and De Pessemier, Toon and Martens, Luc},
@@ -10,7 +10,7 @@ A collection of Python scripts to download and extract rating datasets from Twit
     year = {2014}
     }
 
-This project targets all websites that offer an automated way of posting ratings to the Twitter platform, see [the MovieTweetings project] (https://github.com/sidooms/MovieTweetings) for more information specific to the IMDb (movie ratings) use case.     
+This project targets all the websites that offer an automated way of posting ratings to the Twitter platform, see [the MovieTweetings project] (https://github.com/sidooms/MovieTweetings) for more information specific to the IMDb (movie ratings) use case.     
 
 The exact scripts and datasets that were described in the paper are archived in the `MSM-experiment-code-datasets` folder. Since some twitter user ids are present in multiple datasets, the combination of the the datasets in the `MSM-experiment-code-datasets` folder can be used as **a true cross-domain rating dataset**.
     
