@@ -10,7 +10,7 @@ A collection of Python scripts to download and extract rating datasets from Twit
     year = {2014}
     }
 
-# This project targets all websites that offer an automated way of posting ratings to the Twitter platform, see [the MovieTweetings project] (https://github.com/sidooms/MovieTweetings) for more information specific to the IMDb (movie ratings) use case.     
+ This project targets all websites that offer an automated way of posting ratings to the Twitter platform, see [the MovieTweetings project] (https://github.com/sidooms/MovieTweetings) for more information specific to the IMDb (movie ratings) use case.     
 
 The exact scripts and datasets that were described in the paper are archived in the `MSM-experiment-code-datasets` folder. Since some twitter user ids are present in multiple datasets, the combination of the the datasets in the `MSM-experiment-code-datasets` folder can be used as **a true cross-domain rating dataset**.
     
