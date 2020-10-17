@@ -1,6 +1,6 @@
 Twitter-ratings
 ===============
-
+An Amazing Product.
 A collection of Python scripts to download and extract rating datasets from Twitter as described in an article accepted for publication in the [MSM 2014 workshop](http://www.kde.cs.uni-kassel.de/ws/msm2014/) co-located with the [WWW 2014 conference](http://www2014.kr). Please cite the corresponding paper if you make use of this work. The presented slides can be found on [slideshare](http://www.slideshare.net/simondooms/static-mining-cross-domain-rating-datasets-from-structured-data-on-twitter).
 
     @conference{Dooms14msm,
